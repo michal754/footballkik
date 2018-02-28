@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/michal754/footballkik/issues"
   },
-  "homepage": "https://github.com/michal754/footballkik#readme"
+  "homepage": "https://github.com/michal754/footballkik#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
 }
